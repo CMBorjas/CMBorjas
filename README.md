@@ -25,7 +25,7 @@
 ### 🌐 Connect with Me
 
 <!-- Add actual links if you want -->
-- 🔗 [LinkedIn](https://www.linkedin.com/in/christianmandujano/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cchristian-mandujano/)
 - 📫 Email: c.mandujano.borjas@gmail.com
 
 ---
