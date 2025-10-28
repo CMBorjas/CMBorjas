@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Mandujano Borjas</h1>
+<h1 align="center">My name is Christian Mandujano Borjas</h1>
 <h3 align="center">A passionate software developer and tinkerer with interests in embedded systems, machine learning, and self-hosted solutions</h3>
 
 <p align="center">
@@ -13,24 +13,24 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔭 I’m currently working on projects involving Dockerized apps, Raspberry Pi setups, and AI-powered assistants for tabletop games  
-- 🌱 I’m learning Rust, embedded systems design, and expanding my understanding of compiler theory  
-- 👯 I’m open to collaboration on open source, self-hosting, or automation projects  
-- ⚡ Fun fact: I enjoy building fantasy generators, memory palaces, and tools for DMs (Dungeon Masters)
+-  I’m currently working on projects involving Dockerized apps, Raspberry Pi setups, and AI-powered assistants for tabletop games  
+-  I’m learning Rust, embedded systems design, and expanding my understanding of compiler theory  
+-  I’m open to collaboration on open source, self-hosting, or automation projects  
+-  Fun fact: I enjoy building fantasy generators, memory palaces, and tools for DMs (Dungeon Masters)
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <!-- Add actual links if you want -->
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cchristian-mandujano/)
-- 📫 Email: c.mandujano.borjas@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/cchristian-mandujano/)
+- Email: c.mandujano.borjas@gmail.com
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmborjas&show_icons=true&locale=en&layout=compact" alt="cmborjas" />
