@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer and tinkerer with interests in embedded systems, machine learning, and self-hosted solutions</h3>
 
 <p align="center">
-  <a href="https://github.com/cmborjas"><img height=140 src="https://avatars.githubusercontent.com/u/118933346?v=4" alt="Avatar"></a><br/>
+  <a href="https://github.com/cmborjas"><img height=140 src="https://avatars.githubusercontent.com/u/118933346?s=400&u=f1158300ba3247509de0f3f8d4ac80733a5d21b9&v=4" alt="Avatar"></a><br/>
   <img src="https://komarev.com/ghpvc/?username=cmborjas&label=Profile%20views&color=0e75b6&style=flat" alt="cmborjas" />
 </p>
 
