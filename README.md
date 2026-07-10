@@ -86,8 +86,17 @@
 ---
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/cchristian-mandujano/)
-- Email: c.mandujano.borjas@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/cchristian-mandujano/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:C.Mandujano.Borjas@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://cmborjas.github.io/ResumeWebsite/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
 ---
 
