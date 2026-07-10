@@ -19,19 +19,6 @@
 - I’m learning Rust, embedded systems design, and expanding my understanding of compiler theory.
 - I’m open to collaboration on open source, self‑hosting, or automation projects.
 - Fun fact: I enjoy building fantasy generators, memory palaces, and tools for DMs (Dungeon Masters).
-
----
-
-### Technology Stack
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-  <a href="https://github.com/git-scm.git" target="_blank"><img src="https://avatars.githubusercontent.com/u/583231?alt=octocat&v=4" alt="git" width="40" height="40"/></a>
-</p>
-
 ---
 
 ## Languages & Tools
@@ -89,7 +76,6 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
----
 
 ### Projects
 | Project | Description | Link |
