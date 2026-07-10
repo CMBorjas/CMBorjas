@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
